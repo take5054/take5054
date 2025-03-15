@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,git,github,vscode,visualstudio,aws,sqlite,blender,unity,unreal" />
 </a>
 
-### Language
+### Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,ts,php,md,lua,java" />
 </a>
