@@ -10,11 +10,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=take5054&custom_title=take5054's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
-## 🏆 **GitHub Trophies (Commits)**
+## 🏆 **GitHub Trophies**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=take5054&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=take5054&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 ## **GitHub Status**
 
